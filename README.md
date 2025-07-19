@@ -11,7 +11,7 @@
     <hr>
 
     <h2>Tutku Erkek Atleti</h2>
-    <img src="https://i.imgur.com/Bw3l3pn.jpeg" width="250" alt="Tutku Erkek Atleti">
+    <img src="<img src="https://cdn.openai.com/chatgpt/Tutku-Erkek-Atleti-sample.png" width="250" alt="Tutku Erkek Atleti">width="250" alt="Tutku Erkek Atleti">
     <p>Yüksek kaliteli pamuklu Tutku erkek atleti. Terletmez, esnek ve rahattır. Toptan alımlarda indirim uygulanır.</p>
     <p><strong>Fiyat:</strong> 100 TL</p>
     <a href="https://wa.me/905516720120" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#25D366; color:white; text-decoration:none; border-radius:5px;">WhatsApp’tan Sipariş Ver</a>
